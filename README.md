@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmorenoregalado&label=Profile%20views&color=0e75b6&style=flat" alt="mmorenoregalado" /> </p>
 
-- 🔭 I’m currently working on [Talently](https://talently.tech/)
+- 🔭 I’m currently search for new Job Oportunities
 
-- 🌱 I’m currently learning **Typescript, Python, Vue3, Blockchain**
+- 🌱 I’m currently learning **Typescript, Python, Vue3, Blockchain, AI**
 
 - 👯 I’m looking to collaborate on **Opensource**
 
 - 🤝 I’m looking for help with **Typescript**
 
-- 💬 Ask me about **Vue, PHP, DDD, Hexagonal Architechture, Clean Code**
+- 💬 Ask me about **Vue, PHP, DDD, JavaScript, Hexagonal Architechture, Clean Code, Software Architechture**
 
-- 📫 How to reach me **mmorenoregalado@gmail.com**
+- 📫 How to reach me **ing.miguelmoreno@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
